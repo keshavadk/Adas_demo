@@ -1,0 +1,67 @@
+[{
+  "_id": {
+    "$oid": "60f1bdbd04679587034a9d18"
+  },
+  "id": 2,
+  "File_Name": "annotate1.jpeg",
+  "project_name": "BMW",
+  "Task_level": "marker",
+  "Priority": "Highest",
+  "Created_Date": "09-07-2021",
+  "status": "Ready",
+  "Action": "START",
+  "annotation_image": null,
+  "string": null
+},{
+  "_id": {
+    "$oid": "60f1bddc04679587034a9d19"
+  },
+  "id": 3,
+  "File_Name": "annotate2.jpeg",
+  "project_name": "Veoneer",
+  "Task_level": "marker",
+  "Priority": "Medium",
+  "Created_Date": "10-07-2021",
+  "status": "InProgress",
+  "Action": "Continue",
+  "annotation_image": null
+},{
+  "_id": {
+    "$oid": "60f1bdfe04679587034a9d1a"
+  },
+  "id": 4,
+  "File_Name": "annotate3.jpeg",
+  "project_name": "Conti",
+  "Task_level": "checker",
+  "Priority": "Medium",
+  "Created_Date": "15-07-2021",
+  "status": "InProgress",
+  "Action": "Continue",
+  "annotation_image": null
+},{
+  "_id": {
+    "$oid": "60f1be1e04679587034a9d1b"
+  },
+  "id": 5,
+  "File_Name": "annotate4.jpeg",
+  "project_name": "BMW",
+  "Task_level": "checker",
+  "Priority": "Medium",
+  "Created_Date": "13-07-2021",
+  "status": "Completed",
+  "Action": "Done",
+  "annotation_image": null
+},{
+  "_id": {
+    "$oid": "60f1be3804679587034a9d1c"
+  },
+  "id": 6,
+  "File_Name": "annotate5.jpeg",
+  "project_name": "Veoneer",
+  "Task_level": "marker",
+  "Priority": "Highest",
+  "Created_Date": "21-07-2021",
+  "status": "Ready",
+  "Action": "START",
+  "annotation_image": null
+}]

@@ -1,0 +1,34 @@
+[{
+  "_id": {
+    "$oid": "60d97f264eaa89e89ac1b772"
+  },
+  "id": 1,
+  "trackId": "1",
+  "objectClass": "Cycle",
+  "occlusion": "none",
+  "pose": "Right",
+  "lane_change": false,
+  "breakLight": false
+},{
+  "_id": {
+    "$oid": "60d97f3b4eaa89e89ac1b773"
+  },
+  "id": 2,
+  "trackId": "2",
+  "objectClass": "Car",
+  "occlusion": "half",
+  "pose": "FrontRight",
+  "lane_change": true,
+  "breakLight": false
+},{
+  "_id": {
+    "$oid": "60d97f4a4eaa89e89ac1b774"
+  },
+  "id": 3,
+  "trackId": "3",
+  "objectClass": "Truck",
+  "occlusion": "sideLeft",
+  "pose": "Left",
+  "lane_change": false,
+  "breakLight": true
+}]

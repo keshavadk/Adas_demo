@@ -1,0 +1,34 @@
+[{
+  "_id": {
+    "$oid": "60d980424eaa89e89ac1b776"
+  },
+  "id": 1,
+  "Light_Condition": "Day",
+  "Road_Type": "HighWay",
+  "Road_works": "True",
+  "Tunnel": "True",
+  "Weather": "Sunny",
+  "Street_Condition": "True"
+},{
+  "_id": {
+    "$oid": "60d980aa4eaa89e89ac1b777"
+  },
+  "id": 2,
+  "Light_Condition": "Night",
+  "Road_Type": "CityRoad",
+  "Road_works": "False",
+  "Tunnel": "True",
+  "Weather": "Rainy",
+  "Street_Condition": "False"
+},{
+  "_id": {
+    "$oid": "60d980b54eaa89e89ac1b778"
+  },
+  "id": 3,
+  "Light_Condition": "Foggy",
+  "Road_Type": "",
+  "Road_works": "True",
+  "Tunnel": "False",
+  "Weather": "Foggy",
+  "Street_Condition": "False"
+}]

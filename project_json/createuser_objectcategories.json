@@ -1,0 +1,85 @@
+[{
+  "_id": {
+    "$oid": "60e6f690bee9a6fa58c9ce66"
+  },
+  "id": 1,
+  "object_category": "Truck"
+},{
+  "_id": {
+    "$oid": "60e6f6a3bee9a6fa58c9ce67"
+  },
+  "id": 2,
+  "object_category": "Bicycle"
+},{
+  "_id": {
+    "$oid": "60e6f6abbee9a6fa58c9ce68"
+  },
+  "id": 3,
+  "object_category": "Bicycledriver"
+},{
+  "_id": {
+    "$oid": "60e6f6b2bee9a6fa58c9ce69"
+  },
+  "id": 4,
+  "object_category": "Car"
+},{
+  "_id": {
+    "$oid": "60e6f6b9bee9a6fa58c9ce6a"
+  },
+  "id": 5,
+  "object_category": "Motorbike"
+},{
+  "_id": {
+    "$oid": "60e6f6c1bee9a6fa58c9ce6b"
+  },
+  "id": 6,
+  "object_category": "Motorbikedriver"
+},{
+  "_id": {
+    "$oid": "60e6f6ccbee9a6fa58c9ce6c"
+  },
+  "id": 7,
+  "object_category": "BabyCarriage"
+},{
+  "_id": {
+    "$oid": "60e6f6d3bee9a6fa58c9ce6d"
+  },
+  "id": 8,
+  "object_category": "Pedestrian"
+},{
+  "_id": {
+    "$oid": "60e6f6dcbee9a6fa58c9ce6e"
+  },
+  "id": 9,
+  "object_category": "Wheelchair"
+},{
+  "_id": {
+    "$oid": "60e6f6e3bee9a6fa58c9ce6f"
+  },
+  "id": 10,
+  "object_category": "Vehicle"
+},{
+  "_id": {
+    "$oid": "60e6f6eebee9a6fa58c9ce70"
+  },
+  "id": 11,
+  "object_category": "3-4Wheelers"
+},{
+  "_id": {
+    "$oid": "60e6f6f8bee9a6fa58c9ce71"
+  },
+  "id": 12,
+  "object_category": "Animal"
+},{
+  "_id": {
+    "$oid": "60e6f702bee9a6fa58c9ce72"
+  },
+  "id": 13,
+  "object_category": "Undefined_Vehicle"
+},{
+  "_id": {
+    "$oid": "60e6fa15cdd0e4fa21e958ba"
+  },
+  "id": 17,
+  "object_category": "None"
+}]
